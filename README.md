@@ -14,7 +14,7 @@
 - Install Arduino Mbed OS Nano Boards to detect BLE Sense.
 - Go to Tools>Manage Libraries
 - Install the following libraries to utilize all the sensors on BLE Sense: Arduino_HTS221, Arduino_LPS22HB, Arduino_LSM9DS1, Arduino_TensorFlowLite, ArduinoBLE, ArduinoSound and JPEGDecoder
-- Download the ArduinoSketches folder and place it in C:\Users\ <user> \Documents\Arduino\libraries\
+- Download the ArduinoSketches folder and place it in C:\Users\ 'User' \Documents\Arduino\libraries\
 - Create a new folder on your desktop to store data.
 # Usage
 - Connect the BLE Sense using a micro-usb cable to your laptop/PC.
